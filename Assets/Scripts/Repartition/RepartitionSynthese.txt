@@ -1,0 +1,68 @@
+Zachary
+------------------------------------------------------------------------------------
+
+Optimisations des anciens tp :
+
+-> Apparition du personnage sur un repère et non n'importe où dans une salle (pouvait apparaitre dans une tuile)
+-> Le personnage ne peut pas appraitre dans une salle où il y a une clef la porte
+-> Les bonus ont désormais un temps limite de 5 secondes
+-> La caméra machine suit le personnage et elle grossis selon les niveaux. 
+-> Limite de la longeur de 5 salles de large
+-> Achat de la potion dans la boutique
+-> Correction afin de changer le bon nom du joueur selon la position du classement (on pouvait seulement changer le joueur no1 avant/sauvegarde #tp4)
+-> Réglage du confiner
+-> Faire le UI pendant la partie (Shuriken et potion)
+-> Faire les [Header] des scripts
+-> Modification des nom des salles. 
+
+Ennemis :
+
+-> Intégration et fonctionnement des ennemis (Le bloc ennemi au complet -> marche, repère, perte de vie, scale, animations, etc...)
+-> Le perso clignote, gagne une vie et une potion apparait lorsque celui-ci tue un ennemi (saute sur sa tête) + (seulement mes ennemis)
+-> L'ennemi saute de facon aléatoire 
+-> Le perso gagne 10 joyaux pour chaque ennemis tué
+-> Le perso clignote rouge après avoir été touché par un projectile
+
+
+Fonctionnalité :
+
+-> Temps limite de 30 secondes
+-> Il y a moins de bonus mais plus de joyaux
+-> Les ennemis font plus de dégâts
+-> Il faut le double de shurikens afin de tuer un ennemi
+-> Il n'y a pas de porte ni de clef dans ce niveau bonus
+-> Un panneau s'affichque dans la boutique avant de débuté le niveau bonus
+
+
+Albert
+-------------------------------------------------------------------------------------
+
+Optimisations des anciens tp :
+
+-> Optimisation et refaire toutes les prefabs de salles
+-> Fonctionnement de l'activateur avec le Unity Event 
+-> Achat du Shuriken dans la boutique 
+-> Achat de la potion dans la boutique
+-> Refonte du bonus 2 pour que les shurikens fasse plus de dégâts lorsque le bonus est activer
+-> Shurikens deviennent rouge quand le bonus est activer. 
+-> Ajout des effet sonor (Shuriken, potion, joyaux, ennemis, etc...)
+-> Ajout de particule (Porte, effecteur, activateur, etc...)
+-> Optimisation des animations du personnage (Idle, marche, saut, etc...) 
+-> Changer les tuiles pour les nouvelles tuiles
+-> Correction du font parallax. 
+
+
+Attque du joueur:
+-> Lancer le shuriken avec la souris
+-> Viser avec la souris dans n'importe quelle direction
+-> Le shuriken tue les ennemis
+
+Ennemis :
+-> Attaque des ennemis (Lance des disques en direction du joueur)
+-> Le joueur perd une vie lorsqu'il se fait toucher par un disque 
+
+Fonctionnalité :
+-> Double saut 
+-> Le joueur doit acheter des potion dans la boutique afin de pouvoir effectuer un double saut
+-> Potion de soin a l'aide de la touche "F" (Le joueur doit acheter une potion dans la boutique afin de pouvoir se soigner)
+

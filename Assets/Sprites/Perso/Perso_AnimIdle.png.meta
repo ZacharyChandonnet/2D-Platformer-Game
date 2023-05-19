@@ -1,0 +1,1720 @@
+fileFormatVersion: 2
+guid: 51c3e9c14cf6a3440a69d5262362a8dd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Perso_AnimIdle_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1789
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f2184528db007488304de1a1a46906
+      internalID: 642389253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1789
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9f82ea2ed57244e99307192fae1432
+      internalID: 1374220230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1789
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c7c75cfb425784d88097cf29e4200d
+      internalID: 1941531135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1789
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956623f15c91d394aba719d39aaedad1
+      internalID: 821072795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1789
+        width: 76
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dccc4f9e08ff5f4d8e3b531b4f9a445
+      internalID: 196903031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1789
+        width: 76
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929e04794e8ec38478087ea21937628a
+      internalID: 1952165091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1789
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f141ed2244e6f04b9c5d2c3268c8020
+      internalID: 679444650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_7
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1789
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc86bafd8e73b524caab1a86a6a006ba
+      internalID: 1723710023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1789
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7619dcd48d73fd4d94ae0b7c8abf7c6
+      internalID: -190265673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_9
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1789
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d9955e11b80c44e8ec9b1df4cbb5d6
+      internalID: 1998154373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_10
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1789
+        width: 76
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7ec7a79d18369458e8fdc4e5fef1b2
+      internalID: -1833501157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_11
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1789
+        width: 78
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c81f51ab54ca840964d8031caa0dfc
+      internalID: 1945582221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_12
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1789
+        width: 80
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5974a480d4a0c6b41ad6d1b1e696eaf1
+      internalID: -674883001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_13
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1789
+        width: 81
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0916eb708dd6ab458be5beb5fc26bc7
+      internalID: 1487401098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_14
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1789
+        width: 81
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4c13fcb09f619439428709aa575804
+      internalID: 1566997263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_15
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1789
+        width: 82
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37181c9290af5143a45f81f554a0e58
+      internalID: 1243746935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_16
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1789
+        width: 85
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3a88bbdec0a674daa56953c3930771
+      internalID: 82047998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_17
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1789
+        width: 87
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd53fd74abc40c74689784f48af1b40f
+      internalID: -378746235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_18
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1789
+        width: 87
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b024e74398a549be6d058d99dea3f
+      internalID: 2035100246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_19
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1789
+        width: 87
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b095f1b7bcbd704daec693b665b700c
+      internalID: -1987339953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_20
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1789
+        width: 86
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19ba9aafe6a6d04e8d0ddf127327337
+      internalID: -1901953132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_21
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1789
+        width: 83
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42bd350a16ca0846952084f9e7b287a
+      internalID: -281267375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_22
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1789
+        width: 82
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcc29b1f2db02b41b8e546a61da55b5
+      internalID: 33307785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_23
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1789
+        width: 83
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d9908c9f77f3a4495238348e931b89
+      internalID: 862354204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1529
+        width: 83
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a0340835745e1488f9c4c3cf14734f
+      internalID: -482788433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1529
+        width: 83
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6134d10c5f272a45908edb57d13596e
+      internalID: -1553131315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1529
+        width: 82
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c901bd3689373254b905ebe351ba1319
+      internalID: 543745766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_27
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1529
+        width: 81
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3874eca15592e5a4db3dc4efdbd27340
+      internalID: -1237338826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_28
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1529
+        width: 80
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd68c987ede102946ae91c5edf520f35
+      internalID: -1964669439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_29
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1529
+        width: 78
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd1290ab7da05343aa0bef9e1230c40
+      internalID: 1706086446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_30
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1529
+        width: 76
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d33dcbf45a60b4aa9828acc82d3797
+      internalID: -1277773785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_31
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1529
+        width: 77
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07177a075d19d31439845da434f876c8
+      internalID: 1270303689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_32
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1529
+        width: 78
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a9b1199d8f56428221a08215c489b
+      internalID: 1215407377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_33
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1529
+        width: 79
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35f0ed23d110674d8de981e2a210443
+      internalID: -1165863509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_34
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1529
+        width: 80
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f49cec5f17b6c843b35ef727b59f3af
+      internalID: -641161429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_35
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1529
+        width: 81
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f0eb127a29ee044ba2bd634fd434f9
+      internalID: 999730131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_36
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1529
+        width: 80
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70172055af24c84a99763655a16458a
+      internalID: -1759670532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_37
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1529
+        width: 79
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f099a50e0659dd41a152f0ad2144dc7
+      internalID: -309577142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_38
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1529
+        width: 78
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f604ca8f20bd2b49b515f7428ed5eb3
+      internalID: 2025354272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_39
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1529
+        width: 77
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e546acdc17682b84488840d3cfdfb4fa
+      internalID: 91922815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_40
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1529
+        width: 76
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6783e12043b5df048991d6ec81473f65
+      internalID: 1111506186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_41
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1529
+        width: 78
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7273408d7cb0bb841880e542096b2fd2
+      internalID: -810161735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_42
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1529
+        width: 79
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a432cc22200518c47a6ea14520993415
+      internalID: 728288953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_43
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1529
+        width: 81
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb55ab76318ac16429a3dd68c116ecf0
+      internalID: -891629418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_44
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1529
+        width: 81
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6e2917f35edbd429685de32ed5c81c
+      internalID: -1513124671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_45
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1529
+        width: 82
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff22ff60cc9e1c34ea51c3761aa2a8e5
+      internalID: 2048105176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_46
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1529
+        width: 83
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ec784f95e47fd428b1b66eb04b08eb
+      internalID: 2084344186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_47
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1529
+        width: 83
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb1e47f7d7e803459237c17d68fba74
+      internalID: -1432996462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1269
+        width: 82
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4659743089d8d954693ad0884a8356b4
+      internalID: -802713690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1269
+        width: 82
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc962dd4f1ede0f4e9436d83990963dc
+      internalID: -1639247556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_50
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1269
+        width: 84
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb43b876b46ca374997b3b890117a48e
+      internalID: 1794666506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_51
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1269
+        width: 85
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fef5dc9d2292c418de36550c7b5d8b
+      internalID: -1325661051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_52
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1269
+        width: 86
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c0488715b6ac94b97999a89b856eca
+      internalID: 1923982091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_53
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1269
+        width: 86
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e7209bb59a5a44abb0280bd7e506b7
+      internalID: 1090261784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_54
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1269
+        width: 85
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d22797ea0b48824faf6f2acf79c36aa
+      internalID: -690610239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_55
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1269
+        width: 85
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5453610612bacce44be1d3eb795e6402
+      internalID: 42138771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_56
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1269
+        width: 89
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb9fe47ba6704843911fdc31d4c929c
+      internalID: 759709939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_57
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1269
+        width: 91
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dfbd1844919634583acbb04a897696
+      internalID: 1174783765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_58
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1269
+        width: 91
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6b53ee94867b8499e83df58cf9ea0c
+      internalID: 1556431700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_59
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1269
+        width: 89
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f72170d3e3dc84fa8faf0d5137ed9a
+      internalID: 1596827674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_60
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1269
+        width: 85
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f991439dd8589c04c9fade9c3b6a7a86
+      internalID: -870858271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_61
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1269
+        width: 83
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b094a692efc48449a234762a5d2d3e
+      internalID: -493387734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_62
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1269
+        width: 81
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c48b1bfc3685d146995f78096b38b89
+      internalID: 812855150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_63
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1269
+        width: 80
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a882b0c0fdd44a48adfa441d9c97c53
+      internalID: 1263350630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_64
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1269
+        width: 78
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f28c0cd7d459948b5efb90c6982bec
+      internalID: -634376845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_65
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1269
+        width: 76
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98efaa99f1a58484595a89db761cf4a7
+      internalID: 697101676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_66
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1269
+        width: 76
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f9f97d26f6efe4ca36e964e2556d96
+      internalID: 2116139671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_67
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1269
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58bc8afa7ed043429bc6f5459edc653
+      internalID: 427721735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_68
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1269
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d228c54ed63020245847850d1cc068fe
+      internalID: 1929250524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_69
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1269
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7558983ae516fe446a8a70fde6bc12d5
+      internalID: 369996485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_70
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1269
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99cc287f61bf9f42bdc6de68e3b21d2
+      internalID: 1764840953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimIdle_71
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1009
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c64dcacdcdb80f49a8fac6bfa85b4d2
+      internalID: -300285638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Perso_AnimIdle_36: -1759670532
+      Perso_AnimIdle_25: -1553131315
+      Perso_AnimIdle_59: 1596827674
+      Perso_AnimIdle_31: 1270303689
+      Perso_AnimIdle_12: -674883001
+      Perso_AnimIdle_13: 1487401098
+      Perso_AnimIdle_61: -493387734
+      Perso_AnimIdle_1: 1374220230
+      Perso_AnimIdle_70: 1764840953
+      Perso_AnimIdle_67: 427721735
+      Perso_AnimIdle_9: 1998154373
+      Perso_AnimIdle_44: -1513124671
+      Perso_AnimIdle_62: 812855150
+      Perso_AnimIdle_27: -1237338826
+      Perso_AnimIdle_42: 728288953
+      Perso_AnimIdle_32: 1215407377
+      Perso_AnimIdle_23: 862354204
+      Perso_AnimIdle_41: -810161735
+      Perso_AnimIdle_21: -281267375
+      Perso_AnimIdle_65: 697101676
+      Perso_AnimIdle_50: 1794666506
+      Perso_AnimIdle_55: 42138771
+      Perso_AnimIdle_24: -482788433
+      Perso_AnimIdle_20: -1901953132
+      Perso_AnimIdle_18: 2035100246
+      Perso_AnimIdle_64: -634376845
+      Perso_AnimIdle_69: 369996485
+      Perso_AnimIdle_47: -1432996462
+      Perso_AnimIdle_26: 543745766
+      Perso_AnimIdle_3: 821072795
+      Perso_AnimIdle_14: 1566997263
+      Perso_AnimIdle_15: 1243746935
+      Perso_AnimIdle_43: -891629418
+      Perso_AnimIdle_28: -1964669439
+      Perso_AnimIdle_8: -190265673
+      Perso_AnimIdle_2: 1941531135
+      Perso_AnimIdle_10: -1833501157
+      Perso_AnimIdle_17: -378746235
+      Perso_AnimIdle_39: 91922815
+      Perso_AnimIdle_34: -641161429
+      Perso_AnimIdle_7: 1723710023
+      Perso_AnimIdle_38: 2025354272
+      Perso_AnimIdle_37: -309577142
+      Perso_AnimIdle_4: 196903031
+      Perso_AnimIdle_19: -1987339953
+      Perso_AnimIdle_35: 999730131
+      Perso_AnimIdle_53: 1090261784
+      Perso_AnimIdle_29: 1706086446
+      Perso_AnimIdle_11: 1945582221
+      Perso_AnimIdle_16: 82047998
+      Perso_AnimIdle_30: -1277773785
+      Perso_AnimIdle_40: 1111506186
+      Perso_AnimIdle_0: 642389253
+      Perso_AnimIdle_52: 1923982091
+      Perso_AnimIdle_71: -300285638
+      Perso_AnimIdle_22: 33307785
+      Perso_AnimIdle_33: -1165863509
+      Perso_AnimIdle_60: -870858271
+      Perso_AnimIdle_63: 1263350630
+      Perso_AnimIdle_45: 2048105176
+      Perso_AnimIdle_46: 2084344186
+      Perso_AnimIdle_58: 1556431700
+      Perso_AnimIdle_49: -1639247556
+      Perso_AnimIdle_56: 759709939
+      Perso_AnimIdle_68: 1929250524
+      Perso_AnimIdle_57: 1174783765
+      Perso_AnimIdle_66: 2116139671
+      Perso_AnimIdle_5: 1952165091
+      Perso_AnimIdle_48: -802713690
+      Perso_AnimIdle_54: -690610239
+      Perso_AnimIdle_51: -1325661051
+      Perso_AnimIdle_6: 679444650
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

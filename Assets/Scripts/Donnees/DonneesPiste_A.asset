@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd695656414a02b49b777488061f976c, type: 3}
+  m_Name: DonneesPiste_A
+  m_EditorClassIdentifier: 
+  _type: 1
+  _clip: {fileID: 8300000, guid: 7e518a5cb3f12d54783f952cae6e76a8, type: 3}
+  _estActifParDefaut: 0
+  _estActif: 0

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ennemi_2_Anim_Chute.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ennemi_1_AnimChute0000" x="4" y="4" width="205" height="195" pivotX="125.3" pivotY="112.2" frameX="0" frameY="-3" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0001" x="213" y="4" width="207" height="199" frameX="-5" frameY="-3" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0002" x="424" y="4" width="207" height="207" frameX="-11" frameY="-3" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0003" x="635" y="4" width="206" height="212" frameX="-18" frameY="-3" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0004" x="4" y="220" width="203" height="213" frameX="-25" frameY="-3" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0005" x="211" y="220" width="198" height="210" frameX="-34" frameY="-3" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0006" x="413" y="220" width="190" height="214" frameX="-42" frameY="-2" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0007" x="607" y="220" width="178" height="217" frameX="-52" frameY="-2" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0008" x="789" y="220" width="163" height="220" frameX="-63" frameY="-2" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0009" x="4" y="444" width="147" height="222" frameX="-75" frameY="-2" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0010" x="155" y="444" width="128" height="223" frameX="-88" frameY="-2" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0011" x="287" y="444" width="123" height="225" frameX="-86" frameY="-1" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0012" x="414" y="444" width="119" height="226" frameX="-83" frameY="-1" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0013" x="537" y="444" width="113" height="226" frameX="-80" frameY="-1" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0014" x="654" y="444" width="107" height="226" frameX="-77" frameY="0" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0015" x="765" y="444" width="102" height="224" frameX="-74" frameY="0" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0016" x="871" y="444" width="102" height="224" frameX="-74" frameY="0" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0017" x="871" y="444" width="102" height="224" frameX="-74" frameY="0" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0018" x="4" y="674" width="102" height="224" frameX="-74" frameY="0" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0019" x="4" y="674" width="102" height="224" frameX="-74" frameY="0" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0020" x="4" y="674" width="102" height="224" frameX="-74" frameY="0" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0021" x="4" y="674" width="102" height="224" frameX="-74" frameY="0" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0022" x="4" y="674" width="102" height="224" frameX="-74" frameY="0" frameWidth="232" frameHeight="227"/>
+	<SubTexture name="Ennemi_1_AnimChute0023" x="110" y="674" width="102" height="224" frameX="-74" frameY="0" frameWidth="232" frameHeight="227"/>
+</TextureAtlas>

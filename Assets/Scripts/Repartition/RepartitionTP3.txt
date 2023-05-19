@@ -1,0 +1,22 @@
+Zachary
+-------------------------------------------------------
+* Positionnement de la clé, de la porte, de l'activateur et des bonus
+* Positionnement du personnage lors du démarage
+* Création des repères
+* Inventaires des tuiles libres (Obtenir & trouver pos libre)
+* Création des listes & méthodes pour pos libre
+* Bonus des potions
+* Effectors
+
+
+Albert
+--------------------------------------------------------
+* Le bloc des joyaux 
+* Particules
+* Fonctionnement de l'activateur (UnityEvents)
+* Boutique & navigation
+* Faire deux salles (car absent pour tp2 & moitié tp3)
+
+--------------------------------------------------------
+* On s'est arrangé afin de rendre ca équitable puisque albert à manqué la moitié du TP3 et j'avais déjà avancé de facon considérable de mon côté.
+* En gros, Zachary s'occupe des positions (pos libres etc...) des différents objets(clef,porte,activateur,bonus,effector) & fonctionnement des bonus et effector, alors qu'Albert s'occupe des joyaux, des particules et de la boutique.

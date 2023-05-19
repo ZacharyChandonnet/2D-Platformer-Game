@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ennemi_2_Anim_Marche.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0000" x="4" y="4" width="108" height="225" pivotX="104.45" pivotY="122.3" frameX="-50" frameY="-10" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0001" x="116" y="4" width="114" height="225" frameX="-50" frameY="-9" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0002" x="234" y="4" width="120" height="226" frameX="-50" frameY="-8" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0003" x="358" y="4" width="135" height="226" frameX="-41" frameY="-7" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0004" x="497" y="4" width="152" height="226" frameX="-28" frameY="-6" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0005" x="653" y="4" width="167" height="225" frameX="-16" frameY="-5" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0006" x="824" y="4" width="168" height="225" frameX="-16" frameY="-4" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0007" x="996" y="4" width="168" height="225" frameX="-17" frameY="-3" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0008" x="1168" y="4" width="168" height="224" frameX="-18" frameY="-2" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0009" x="1340" y="4" width="169" height="223" frameX="-19" frameY="-1" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0010" x="1513" y="4" width="168" height="222" frameX="-21" frameY="0" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0011" x="1685" y="4" width="177" height="224" frameX="-15" frameY="-1" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0012" x="4" y="234" width="185" height="225" frameX="-10" frameY="-2" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0013" x="193" y="234" width="192" height="226" frameX="-6" frameY="-3" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0014" x="389" y="234" width="197" height="226" frameX="-3" frameY="-4" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0015" x="590" y="234" width="201" height="226" frameX="0" frameY="-5" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0016" x="795" y="234" width="196" height="227" frameX="-5" frameY="-6" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0017" x="995" y="234" width="190" height="228" frameX="-10" frameY="-7" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0018" x="1189" y="234" width="183" height="228" frameX="-16" frameY="-8" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0019" x="1376" y="234" width="175" height="228" frameX="-22" frameY="-9" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0020" x="1555" y="234" width="172" height="228" frameX="-22" frameY="-10" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0021" x="1731" y="234" width="160" height="228" frameX="-33" frameY="-9" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0022" x="4" y="466" width="150" height="228" frameX="-41" frameY="-8" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0023" x="158" y="466" width="143" height="227" frameX="-47" frameY="-7" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0024" x="305" y="466" width="137" height="226" frameX="-50" frameY="-6" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0025" x="446" y="466" width="135" height="224" frameX="-50" frameY="-5" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0026" x="585" y="466" width="133" height="224" frameX="-50" frameY="-4" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0027" x="722" y="466" width="130" height="224" frameX="-50" frameY="-3" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0028" x="856" y="466" width="127" height="223" frameX="-50" frameY="-2" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0029" x="987" y="466" width="124" height="222" frameX="-50" frameY="-1" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0030" x="1115" y="466" width="121" height="222" frameX="-50" frameY="0" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0031" x="1240" y="466" width="118" height="222" frameX="-46" frameY="-1" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0032" x="1362" y="466" width="114" height="223" frameX="-44" frameY="-2" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0033" x="1480" y="466" width="108" height="223" frameX="-45" frameY="-3" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0034" x="1592" y="466" width="108" height="223" frameX="-45" frameY="-4" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0035" x="1704" y="466" width="109" height="223" frameX="-44" frameY="-5" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0036" x="1817" y="466" width="104" height="224" frameX="-49" frameY="-6" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0037" x="1925" y="466" width="103" height="224" frameX="-50" frameY="-7" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0038" x="4" y="698" width="103" height="224" frameX="-50" frameY="-8" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0039" x="111" y="698" width="104" height="224" frameX="-50" frameY="-9" frameWidth="201" frameHeight="238"/>
+	<SubTexture name="Ennemi_1_AnimMarcheAvecSaut0040" x="219" y="698" width="107" height="224" frameX="-50" frameY="-10" frameWidth="201" frameHeight="238"/>
+</TextureAtlas>

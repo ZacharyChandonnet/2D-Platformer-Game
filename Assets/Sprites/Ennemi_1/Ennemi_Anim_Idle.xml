@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ennemi_Anim_Idle.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ennemi_1_AnimIdle0000" x="4" y="4" width="102" height="224" pivotX="51.65" pivotY="112.3"/>
+	<SubTexture name="Ennemi_1_AnimIdle0001" x="110" y="4" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0002" x="216" y="4" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0003" x="322" y="4" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0004" x="428" y="4" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0005" x="534" y="4" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0006" x="640" y="4" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0007" x="746" y="4" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0008" x="852" y="4" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0009" x="4" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0010" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0011" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0012" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0013" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0014" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0015" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0016" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0017" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0018" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0019" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0020" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0021" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0022" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0023" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0024" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0025" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0026" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0027" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0028" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0029" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0030" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0031" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0032" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0033" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0034" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0035" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0036" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0037" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0038" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0039" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0040" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0041" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0042" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0043" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0044" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0045" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0046" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0047" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0048" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0049" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0050" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0051" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0052" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0053" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0054" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0055" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0056" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0057" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0058" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0059" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0060" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0061" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0062" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0063" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0064" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0065" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0066" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0067" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0068" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0069" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0070" x="110" y="232" width="102" height="224"/>
+	<SubTexture name="Ennemi_1_AnimIdle0071" x="110" y="232" width="102" height="224"/>
+</TextureAtlas>

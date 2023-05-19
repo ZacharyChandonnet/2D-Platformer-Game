@@ -1,0 +1,1006 @@
+fileFormatVersion: 2
+guid: 5cb7cc2fe1bdbf743821426cf8703fb8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 572
+        width: 104
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a8ca66c3df8bf4aad4c6c7dbbb9a7c
+      internalID: -1721038215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 572
+        width: 107
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a169cc8b429bb499b9ffb398f56fd3
+      internalID: 284579002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 571
+        width: 111
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d59ce6a895e6146a42594c3ded5162
+      internalID: -756263362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 571
+        width: 115
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814c9b50bae0f3043a2e2dee536e273e
+      internalID: 89725041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_4
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 571
+        width: 119
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ea33ab336a78a40bef08814e52eca3
+      internalID: -417678802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_5
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 571
+        width: 123
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad144d2fcff000409de8ed3ad95fecc
+      internalID: -1540334014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_6
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 572
+        width: 127
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4749ed028c7a884a82717c71acd852e
+      internalID: 147505123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_7
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 573
+        width: 129
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d7065755cb30e4b8679340dddbe235
+      internalID: 1734603009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_8
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 572
+        width: 136
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb42a5b2019c56448774950e91fab3e
+      internalID: -1559631744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_9
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 572
+        width: 147
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecb87c8ed2e3954185110c2c7e1edfa
+      internalID: 241589962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_10
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 576
+        width: 157
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b9788621f84bc419fc352ba757595b
+      internalID: -1471573333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_11
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 582
+        width: 169
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b0928a6e5db6e4ba13c983a5f34da1
+      internalID: 240786843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_12
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 591
+        width: 181
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc483b6b29e7f64b8967ed0544a03dd
+      internalID: 1972521681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_13
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 602
+        width: 191
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2246644f16717cd4596b13e39621d2db
+      internalID: -900018709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 386
+        width: 198
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b913d9fdb80d724db72ffbe270662c8
+      internalID: 1219990454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 397
+        width: 204
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369668044ccf9ed4bb32dcdeabf1a150
+      internalID: -1250375914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_16
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 397
+        width: 204
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c58c87c6c8e5741bfc012833d0b127
+      internalID: -1171730895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_17
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 397
+        width: 203
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88533a5d55f01ab4686664e3e046102e
+      internalID: -565799523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_18
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 398
+        width: 204
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba39ed99ed8fc24e87ed80485af9976
+      internalID: -422665659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_19
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 397
+        width: 204
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e1a2d184b97fe4c815d03569d277bd
+      internalID: -1040962837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_20
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 397
+        width: 204
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52075aeca724de45b6f22dbe8e0fc6a
+      internalID: -60488219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_21
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 397
+        width: 204
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9cf7cb6359a454e925c8c59987434f
+      internalID: 1899783734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_22
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 398
+        width: 204
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eb4933f9f09784e8b039459cb1128c
+      internalID: 481483680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 212
+        width: 205
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309bba37e3e11cc40a982c54e8ec7b07
+      internalID: 1208118959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 212
+        width: 207
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f694f83f6e28fb54f8f0ef753b024f3c
+      internalID: 1651687429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_25
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 212
+        width: 208
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871b80654f000494fbee73b4ff1f17cd
+      internalID: -124898280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_26
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 213
+        width: 208
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e36964c3fa78842a2bd0edbe758a63
+      internalID: 648870378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_27
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 213
+        width: 207
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8ba2cfcfaf593499a5a5194f2e705e
+      internalID: -228229603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_28
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 213
+        width: 205
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20a0b867d7c209498ede6f899242b36
+      internalID: -1640651964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_29
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 214
+        width: 200
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299f04aa71059bf4b880958fa25657cb
+      internalID: 1647031808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_30
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 214
+        width: 196
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8947a1a38f4ac546958d3dc2bcafe73
+      internalID: -1035323021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_31
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 214
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d0edf9d56cb2b4eb16bcb6d15a3147
+      internalID: -1402921944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b1d132e4d2a17418f921af52d95128
+      internalID: -874785773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_33
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 40
+        width: 191
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91057be34b78d04c9f65560c694eb32
+      internalID: -1197592811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_34
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 40
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19afa0e0e20e847419a556b7324c99fa
+      internalID: 2006409389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_35
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 40
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d3a0ae76613084b9ae16323911b569
+      internalID: -843101704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_36
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 40
+        width: 191
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf2427f1cc8f334e83e4227b5e83596
+      internalID: -1995179440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_37
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 41
+        width: 191
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f4a8c76412f6540869d45521598969
+      internalID: -1800164285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Mort_v2_38
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 41
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd7883676f89c94b92bea7ae52bca79
+      internalID: 1811439040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ennemi_2_Anim_Mort_v2_8: -1559631744
+      Ennemi_2_Anim_Mort_v2_15: -1250375914
+      Ennemi_2_Anim_Mort_v2_26: 648870378
+      Ennemi_2_Anim_Mort_v2_27: -228229603
+      Ennemi_2_Anim_Mort_v2_11: 240786843
+      Ennemi_2_Anim_Mort_v2_13: -900018709
+      Ennemi_2_Anim_Mort_v2_33: -1197592811
+      Ennemi_2_Anim_Mort_v2_14: 1219990454
+      Ennemi_2_Anim_Mort_v2_6: 147505123
+      Ennemi_2_Anim_Mort_v2_20: -60488219
+      Ennemi_2_Anim_Mort_v2_31: -1402921944
+      Ennemi_2_Anim_Mort_v2_4: -417678802
+      Ennemi_2_Anim_Mort_v2_9: 241589962
+      Ennemi_2_Anim_Mort_v2_29: 1647031808
+      Ennemi_2_Anim_Mort_v2_16: -1171730895
+      Ennemi_2_Anim_Mort_v2_3: 89725041
+      Ennemi_2_Anim_Mort_v2_34: 2006409389
+      Ennemi_2_Anim_Mort_v2_12: 1972521681
+      Ennemi_2_Anim_Mort_v2_38: 1811439040
+      Ennemi_2_Anim_Mort_v2_25: -124898280
+      Ennemi_2_Anim_Mort_v2_28: -1640651964
+      Ennemi_2_Anim_Mort_v2_2: -756263362
+      Ennemi_2_Anim_Mort_v2_18: -422665659
+      Ennemi_2_Anim_Mort_v2_1: 284579002
+      Ennemi_2_Anim_Mort_v2_17: -565799523
+      Ennemi_2_Anim_Mort_v2_22: 481483680
+      Ennemi_2_Anim_Mort_v2_37: -1800164285
+      Ennemi_2_Anim_Mort_v2_32: -874785773
+      Ennemi_2_Anim_Mort_v2_0: -1721038215
+      Ennemi_2_Anim_Mort_v2_7: 1734603009
+      Ennemi_2_Anim_Mort_v2_19: -1040962837
+      Ennemi_2_Anim_Mort_v2_21: 1899783734
+      Ennemi_2_Anim_Mort_v2_36: -1995179440
+      Ennemi_2_Anim_Mort_v2_23: 1208118959
+      Ennemi_2_Anim_Mort_v2_24: 1651687429
+      Ennemi_2_Anim_Mort_v2_30: -1035323021
+      Ennemi_2_Anim_Mort_v2_10: -1471573333
+      Ennemi_2_Anim_Mort_v2_5: -1540334014
+      Ennemi_2_Anim_Mort_v2_35: -843101704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

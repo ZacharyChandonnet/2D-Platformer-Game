@@ -1,0 +1,1026 @@
+fileFormatVersion: 2
+guid: 4dfc807f8e6d6d042b5f78292138a01b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 795
+        width: 108
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d80f3bb9dad99438654456e912c557
+      internalID: 1413146075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 795
+        width: 115
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374fb2614eefe2a42a6e6898f2d101a4
+      internalID: -1128412130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 795
+        width: 121
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b4634d14465c544aae29ea53486286
+      internalID: -258679534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 794
+        width: 135
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bfd94fdad6b514d9bcff8f641ef1ef
+      internalID: -2026906454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 795
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1cdf979e067914e922dc6b17075f10
+      internalID: -991141430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 795
+        width: 168
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86c26c70c63f104ea2487b9f386f430
+      internalID: 308992431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_6
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 795
+        width: 168
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a1399c4a75b064681ebae4052f6543
+      internalID: -221729129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_7
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 796
+        width: 169
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450b684e1e8e2245a3f2dbd90ccdd60
+      internalID: 1066587601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_8
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 796
+        width: 169
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad61fd2e267b2448a1103fd1559211c
+      internalID: -971032595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_9
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 797
+        width: 169
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b233fabfccfba449ebcc8b3a1af989
+      internalID: 499892689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_10
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 798
+        width: 169
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9153eb4a2ce7244390f1246f36709ed
+      internalID: -169378235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_11
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 796
+        width: 178
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3078c7f72c73541ace9229c327999b
+      internalID: 1474737812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 565
+        width: 185
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2913ee9a5fc9adb45a7378c01aa339a4
+      internalID: -1156247777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 564
+        width: 192
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69853a9eae00c24f9bfe8991ffc9342
+      internalID: -1971235434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 564
+        width: 198
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bc265ba2f60044cab09720378f3091
+      internalID: 17436510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_15
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 564
+        width: 202
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7297958849d73be489b3785d51dd4853
+      internalID: -1795088022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_16
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 563
+        width: 197
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5317c9404a02842922a5698db392c5
+      internalID: 1239124515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_17
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 562
+        width: 191
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2d585a85f34cb40ac3a353b12030c3
+      internalID: -519173977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_18
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 562
+        width: 184
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060bb0d226b47a145996470061195c72
+      internalID: -1694340779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_19
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 562
+        width: 175
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d350b5e7defe9c4f928b2c1245d38a3
+      internalID: -2076844747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_20
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 562
+        width: 174
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50980a201bb02a428f6a2fba88bc38b
+      internalID: -965044191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_21
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 562
+        width: 160
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ce8bd7a479aea419acafd20edf141b
+      internalID: -1609242876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 331
+        width: 151
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92233db76f74f1e42ae34910a6d850b7
+      internalID: -1277330677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_23
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 331
+        width: 143
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4ca6d50d7bb1445ae0111a6a8870a6
+      internalID: -90000913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_24
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 332
+        width: 138
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c08afc44327fd47b3b11f41e27ab3e
+      internalID: -270165296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_25
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 334
+        width: 136
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4932f07bf7c5ca04785079cdaf1593a5
+      internalID: -526066526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_26
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 334
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378041f3329129946b79cef70624ea18
+      internalID: 2052074058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_27
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 334
+        width: 131
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba46ff80196742d4ab4eaee619645052
+      internalID: -1778077955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_28
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 335
+        width: 128
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6417cbfeb9fef0f49877cc5a8f056c30
+      internalID: 1102772928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_29
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 336
+        width: 125
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c481c2626298dd2449ffd984a5244437
+      internalID: -1690795852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_30
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 336
+        width: 121
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a3ef9b5847a0f4696e38671448a559
+      internalID: -1709411082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_31
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 336
+        width: 119
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42af687d6d3432448a974b6bc2b1484d
+      internalID: 1148410662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_32
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 335
+        width: 114
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb45b1cb68b768e45b14319475662cb3
+      internalID: 156401287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_33
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 335
+        width: 109
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453a6ce692d6eaa45b0f113a28593f6c
+      internalID: -1833936626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_34
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 335
+        width: 109
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91ebbca02b336049ad029c348023cec
+      internalID: -133213565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_35
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 335
+        width: 110
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cff4842a19046e478051ccee6ae48fe
+      internalID: -1073502612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_36
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 334
+        width: 105
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959e45f2edf2b1844854a1cb1f05c7ac
+      internalID: 976512814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_37
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 334
+        width: 104
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7088683f16ea2e43a5f05dd43950272
+      internalID: -745298128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 102
+        width: 104
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232b1cba41644ce44839a42e4f2c548a
+      internalID: 1294980206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_39
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 102
+        width: 104
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172bdd3dc5fad4b4b9051e65020114b5
+      internalID: -1660223138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_2_Anim_Marche_40
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 102
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324ecd6186c03d244bca5a5d72dca9f1
+      internalID: -827656756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ennemi_2_Anim_Marche_7: 1066587601
+      Ennemi_2_Anim_Marche_35: -1073502612
+      Ennemi_2_Anim_Marche_8: -971032595
+      Ennemi_2_Anim_Marche_12: -1156247777
+      Ennemi_2_Anim_Marche_30: -1709411082
+      Ennemi_2_Anim_Marche_37: -745298128
+      Ennemi_2_Anim_Marche_29: -1690795852
+      Ennemi_2_Anim_Marche_27: -1778077955
+      Ennemi_2_Anim_Marche_13: -1971235434
+      Ennemi_2_Anim_Marche_24: -270165296
+      Ennemi_2_Anim_Marche_19: -2076844747
+      Ennemi_2_Anim_Marche_28: 1102772928
+      Ennemi_2_Anim_Marche_32: 156401287
+      Ennemi_2_Anim_Marche_39: -1660223138
+      Ennemi_2_Anim_Marche_18: -1694340779
+      Ennemi_2_Anim_Marche_11: 1474737812
+      Ennemi_2_Anim_Marche_16: 1239124515
+      Ennemi_2_Anim_Marche_25: -526066526
+      Ennemi_2_Anim_Marche_17: -519173977
+      Ennemi_2_Anim_Marche_15: -1795088022
+      Ennemi_2_Anim_Marche_26: 2052074058
+      Ennemi_2_Anim_Marche_6: -221729129
+      Ennemi_2_Anim_Marche_4: -991141430
+      Ennemi_2_Anim_Marche_22: -1277330677
+      Ennemi_2_Anim_Marche_0: 1413146075
+      Ennemi_2_Anim_Marche_34: -133213565
+      Ennemi_2_Anim_Marche_31: 1148410662
+      Ennemi_2_Anim_Marche_1: -1128412130
+      Ennemi_2_Anim_Marche_20: -965044191
+      Ennemi_2_Anim_Marche_3: -2026906454
+      Ennemi_2_Anim_Marche_9: 499892689
+      Ennemi_2_Anim_Marche_36: 976512814
+      Ennemi_2_Anim_Marche_5: 308992431
+      Ennemi_2_Anim_Marche_2: -258679534
+      Ennemi_2_Anim_Marche_38: 1294980206
+      Ennemi_2_Anim_Marche_40: -827656756
+      Ennemi_2_Anim_Marche_21: -1609242876
+      Ennemi_2_Anim_Marche_10: -169378235
+      Ennemi_2_Anim_Marche_14: 17436510
+      Ennemi_2_Anim_Marche_33: -1833936626
+      Ennemi_2_Anim_Marche_23: -90000913
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

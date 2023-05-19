@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Shuriken_anim.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Shuriken_clip0000" x="4" y="4" width="128" height="128" pivotX="89.9" pivotY="89.85" frameX="-25" frameY="-25" frameWidth="179" frameHeight="179"/>
+	<SubTexture name="Shuriken_clip0001" x="136" y="4" width="161" height="161" frameX="-9" frameY="-9" frameWidth="179" frameHeight="179"/>
+	<SubTexture name="Shuriken_clip0002" x="301" y="4" width="179" height="179"/>
+	<SubTexture name="Shuriken_clip0003" x="484" y="4" width="179" height="179"/>
+	<SubTexture name="Shuriken_clip0004" x="667" y="4" width="159" height="159" frameX="-10" frameY="-10" frameWidth="179" frameHeight="179"/>
+	<SubTexture name="Shuriken_clip0005" x="4" y="187" width="131" height="131" frameX="-24" frameY="-24" frameWidth="179" frameHeight="179"/>
+	<SubTexture name="Shuriken_clip0006" x="139" y="187" width="163" height="163" frameX="-8" frameY="-8" frameWidth="179" frameHeight="179"/>
+	<SubTexture name="Shuriken_clip0007" x="306" y="187" width="179" height="179"/>
+	<SubTexture name="Shuriken_clip0008" x="489" y="187" width="177" height="177" frameX="-1" frameY="-1" frameWidth="179" frameHeight="179"/>
+	<SubTexture name="Shuriken_clip0009" x="670" y="187" width="157" height="157" frameX="-11" frameY="-11" frameWidth="179" frameHeight="179"/>
+</TextureAtlas>

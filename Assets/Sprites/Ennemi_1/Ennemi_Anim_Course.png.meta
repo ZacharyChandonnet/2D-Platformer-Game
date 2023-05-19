@@ -1,0 +1,1026 @@
+fileFormatVersion: 2
+guid: 1a421387152b154478a831b477c548fb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 721
+        width: 108
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328776957db140f4c984b2e5f4144783
+      internalID: 1461163283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 721
+        width: 115
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe8de779f91c6549b629b0cf98f3418
+      internalID: -585840934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 721
+        width: 121
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523539d4b28fd9b458566c82289577c8
+      internalID: 55048345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 720
+        width: 135
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd59f5af40a3214289bf82eff3a7a7c
+      internalID: -1692381804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 721
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be33d11802f5ef46919a07f4d29601f
+      internalID: -1702263526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 721
+        width: 168
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933d9c61aab15984d962af13dbfefb43
+      internalID: -1433267269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_6
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 721
+        width: 168
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2bce6097eac454aabbac12b6524062
+      internalID: -1161990864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_7
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 722
+        width: 169
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b54ab826f2f81642a662c08613d8a74
+      internalID: -1965246230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_8
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 722
+        width: 169
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea857cd99c6d854da8acb5e3747311b
+      internalID: 1662702250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_9
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 723
+        width: 169
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116de81f1f01b954c818d52e55a0044a
+      internalID: 1224477477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_10
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 724
+        width: 169
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35d820c2780e6644b777a984f2f8dcd
+      internalID: -1899812528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_11
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 722
+        width: 178
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75be74078315e14e83cacd7b2b18f1f
+      internalID: 1458303128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 491
+        width: 185
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72a19957f7c1724e9de61325dcc162b
+      internalID: -748235214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 490
+        width: 192
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7e01d5075289449b8035319247e0bc
+      internalID: -1429273540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 490
+        width: 198
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b510fd8e2f827747a04ae98984770f9
+      internalID: 843720076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_15
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 490
+        width: 202
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799e595df168ec346af7e43d9a82b809
+      internalID: 1039396275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_16
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 489
+        width: 197
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bc2f554bba3f948a7ca4f9f37484a2
+      internalID: 273906445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_17
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 488
+        width: 191
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a91b33b5f7f234cb02e4f0a0b46dbc
+      internalID: 1310653846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_18
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 488
+        width: 184
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8465e861af1d8c548a7ba91ddfef7b5e
+      internalID: 745573223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_19
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 488
+        width: 175
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033b2bea322b8df48a0cce512ac328ae
+      internalID: -1959983183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_20
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 488
+        width: 174
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089c947cfa0c7b7458d61a417182aead
+      internalID: -1363613639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_21
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 488
+        width: 160
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8f6e214a1e3374ebe74fc726ab2e40
+      internalID: -267369882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 257
+        width: 151
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d772cd8a64a7ec146a8d22bcb8a574ff
+      internalID: -1206410054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_23
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 257
+        width: 143
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5539b57fc49924fb74be604d97eae9
+      internalID: -1455896996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_24
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 258
+        width: 138
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eee3fcbaa9ef9c459dd4d3b30f57b80
+      internalID: 829736622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_25
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 260
+        width: 136
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e32ecae0fd6dd4eb3d8a06b4786748
+      internalID: -424555978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_26
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 260
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3763a376497775e42b14bafcd2544b04
+      internalID: -335628420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_27
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 260
+        width: 131
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0185b1292003a0b4e86f1ac5e8070933
+      internalID: 423321178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_28
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 261
+        width: 128
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f583bbfcdb624f4e85e9b5b7bc51fe5
+      internalID: 1288528812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_29
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 262
+        width: 125
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9ba82f0d719a442a6547640497d435
+      internalID: 708427964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_30
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 262
+        width: 121
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554d326b905400d45943f64da1719df6
+      internalID: -1932049901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_31
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 262
+        width: 119
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed16fca799cc4c40b53a7da4c3b367f
+      internalID: -1266799467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_32
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 261
+        width: 114
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253524229584a4a48b8c40bef50d74f2
+      internalID: -1503472900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_33
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 261
+        width: 109
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee63ac92114e1141a2b1a3409d54cd3
+      internalID: 792430721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_34
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 261
+        width: 109
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d98ae368e852e04c897aac7583c7b39
+      internalID: 1602600821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_35
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 261
+        width: 110
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee861ef966789148b1b4358936e1547
+      internalID: 1931458260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_36
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 260
+        width: 105
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ec94f4f01e84644b8392a40e68efae
+      internalID: -1920206786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_37
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 260
+        width: 104
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384a589ef69754c46a9df59447ff3156
+      internalID: -1602586942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 28
+        width: 104
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1c0189bd50ce24f8758f55e44ace3e
+      internalID: -26263081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_39
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 28
+        width: 104
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54334d3c97499dd439e2ef6991e7a4cd
+      internalID: -132502634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Anim_Course_40
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 28
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f358c181874d1246aa65bbb0d8ab464
+      internalID: 2098441934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ennemi_Anim_Course_22: -1206410054
+      Ennemi_Anim_Course_34: 1602600821
+      Ennemi_Anim_Course_24: 829736622
+      Ennemi_Anim_Course_40: 2098441934
+      Ennemi_Anim_Course_11: 1458303128
+      Ennemi_Anim_Course_39: -132502634
+      Ennemi_Anim_Course_23: -1455896996
+      Ennemi_Anim_Course_5: -1433267269
+      Ennemi_Anim_Course_32: -1503472900
+      Ennemi_Anim_Course_0: 1461163283
+      Ennemi_Anim_Course_36: -1920206786
+      Ennemi_Anim_Course_37: -1602586942
+      Ennemi_Anim_Course_13: -1429273540
+      Ennemi_Anim_Course_9: 1224477477
+      Ennemi_Anim_Course_18: 745573223
+      Ennemi_Anim_Course_15: 1039396275
+      Ennemi_Anim_Course_20: -1363613639
+      Ennemi_Anim_Course_17: 1310653846
+      Ennemi_Anim_Course_35: 1931458260
+      Ennemi_Anim_Course_25: -424555978
+      Ennemi_Anim_Course_31: -1266799467
+      Ennemi_Anim_Course_28: 1288528812
+      Ennemi_Anim_Course_2: 55048345
+      Ennemi_Anim_Course_14: 843720076
+      Ennemi_Anim_Course_7: -1965246230
+      Ennemi_Anim_Course_8: 1662702250
+      Ennemi_Anim_Course_3: -1692381804
+      Ennemi_Anim_Course_6: -1161990864
+      Ennemi_Anim_Course_29: 708427964
+      Ennemi_Anim_Course_33: 792430721
+      Ennemi_Anim_Course_10: -1899812528
+      Ennemi_Anim_Course_30: -1932049901
+      Ennemi_Anim_Course_12: -748235214
+      Ennemi_Anim_Course_26: -335628420
+      Ennemi_Anim_Course_4: -1702263526
+      Ennemi_Anim_Course_38: -26263081
+      Ennemi_Anim_Course_1: -585840934
+      Ennemi_Anim_Course_19: -1959983183
+      Ennemi_Anim_Course_27: 423321178
+      Ennemi_Anim_Course_16: 273906445
+      Ennemi_Anim_Course_21: -267369882
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

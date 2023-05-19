@@ -1,0 +1,17 @@
+Zachary
+-------------------------------------------------------
+* Animations du personnage
+* Caméra Cinemachine (paramètre et collider)
+* Complexité des niveaux
+* Éléments hors jeu
+* Tout ce qui touche aux données du joueur (sauvegarde, affichage, traitement etc...)
+
+
+Albert
+--------------------------------------------------------
+* Les effets sonores
+* Bloc pour la musique
+* L'activation des evenements
+* Éléments dans le jeu
+* Mise en place de l'interface in game et tableau de fin. (Prog pour ig et pour la scène de fin ajout des zone de texte etc...)
+

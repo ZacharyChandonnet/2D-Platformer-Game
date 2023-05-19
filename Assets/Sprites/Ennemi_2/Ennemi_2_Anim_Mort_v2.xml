@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ennemi_2_Anim_Mort_v2.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ennemi_1_AnimMort_v20000" x="4" y="4" width="102" height="224" pivotX="98.55" pivotY="112.3" frameX="-47" frameY="0" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20001" x="110" y="4" width="106" height="225" frameX="-47" frameY="0" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20002" x="220" y="4" width="110" height="225" frameX="-48" frameY="0" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20003" x="334" y="4" width="114" height="225" frameX="-49" frameY="0" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20004" x="452" y="4" width="118" height="225" frameX="-50" frameY="0" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20005" x="574" y="4" width="123" height="225" frameX="-50" frameY="0" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20006" x="701" y="4" width="126" height="224" frameX="-51" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20007" x="831" y="4" width="129" height="223" frameX="-52" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20008" x="964" y="4" width="136" height="225" frameX="-52" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20009" x="1104" y="4" width="146" height="224" frameX="-47" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20010" x="1254" y="4" width="156" height="221" frameX="-42" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20011" x="1414" y="4" width="168" height="215" frameX="-34" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20012" x="1586" y="4" width="180" height="206" frameX="-25" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20013" x="1770" y="4" width="190" height="195" frameX="-17" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20014" x="4" y="233" width="197" height="182" frameX="-11" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20015" x="205" y="233" width="203" height="170" frameX="-5" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20016" x="412" y="233" width="203" height="170" frameX="-5" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20017" x="619" y="233" width="203" height="170" frameX="-5" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20018" x="826" y="233" width="203" height="170" frameX="-5" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20019" x="1033" y="233" width="203" height="170" frameX="-5" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20020" x="1240" y="233" width="203" height="170" frameX="-5" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20021" x="1447" y="233" width="203" height="170" frameX="-5" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20022" x="1654" y="233" width="203" height="170" frameX="-5" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20023" x="4" y="419" width="204" height="170" frameX="-4" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20024" x="212" y="419" width="206" height="170" frameX="-2" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20025" x="422" y="419" width="207" height="170" frameX="-1" frameY="-1" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20026" x="633" y="419" width="207" height="169" frameX="0" frameY="-2" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20027" x="844" y="419" width="205" height="169" frameX="0" frameY="-2" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20028" x="1053" y="419" width="204" height="169" frameX="0" frameY="-2" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20029" x="1261" y="419" width="200" height="168" frameX="-2" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20030" x="1465" y="419" width="196" height="168" frameX="-4" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20031" x="1665" y="419" width="190" height="168" frameX="-7" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20032" x="1665" y="419" width="190" height="168" frameX="-7" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20033" x="4" y="593" width="190" height="168" frameX="-7" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20034" x="4" y="593" width="190" height="168" frameX="-7" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20035" x="4" y="593" width="190" height="168" frameX="-7" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20036" x="4" y="593" width="190" height="168" frameX="-7" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20037" x="198" y="593" width="190" height="168" frameX="-7" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20038" x="392" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20039" x="392" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20040" x="392" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20041" x="587" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20042" x="587" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20043" x="587" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20044" x="587" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20045" x="587" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20046" x="782" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20047" x="782" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20048" x="782" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20049" x="782" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20050" x="782" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20051" x="782" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20052" x="782" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20053" x="782" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20054" x="782" y="593" width="191" height="168" frameX="-6" frameY="-3" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20055" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20056" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20057" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20058" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20059" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20060" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20061" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20062" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20063" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20064" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20065" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20066" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20067" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20068" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20069" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20070" x="977" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+	<SubTexture name="Ennemi_1_AnimMort_v20071" x="1172" y="593" width="191" height="167" frameX="-6" frameY="-4" frameWidth="208" frameHeight="226"/>
+</TextureAtlas>

@@ -1,0 +1,1038 @@
+fileFormatVersion: 2
+guid: 958e98257be3df94a81464001e2402d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 764
+        width: 85
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f3c34f934df1f4ab57712a936ab513
+      internalID: -1291209159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 764
+        width: 76
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982562d148a067a4893da48aac44b656
+      internalID: 414515115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 763
+        width: 67
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af870d0f3f1d422478afbece72d5413d
+      internalID: 389727205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 763
+        width: 71
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483c679e22fbe2842b5f7c241ded3837
+      internalID: -1853366291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 763
+        width: 82
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cc7197e4331a747b48fe4995857f2a
+      internalID: 368295879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 764
+        width: 93
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3412b39d75df9cd43a959c08511c1742
+      internalID: -702362206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 765
+        width: 95
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45a40d5862f00a4e81340dd1282fbaa
+      internalID: 253734173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 766
+        width: 96
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e2a47cc3b92664f8faf723040d49d3
+      internalID: 301795007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 768
+        width: 97
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9f3df69f47e0d45baf980758a8e50e
+      internalID: 1513097935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 769
+        width: 109
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b253c08eeba38194aa9a78796bfa08e6
+      internalID: -953253187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 771
+        width: 124
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28d49ef58d98154884afd37b4545bc5
+      internalID: -564020964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 769
+        width: 130
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b82396c74109b4b9e921fb48249238
+      internalID: 289525613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 768
+        width: 135
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dfa2360c4d05544b688f424fa59e43
+      internalID: 657255019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 766
+        width: 134
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029c6fbf3816d5d4d96a42accadaff2c
+      internalID: -1919930178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 765
+        width: 135
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a41aad30cdd6af43b6080e3ecc4861e
+      internalID: 1383084537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 764
+        width: 134
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e3d0564bacd0d479655ff56be4c7d5
+      internalID: -304281782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 764
+        width: 126
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d298b6024dd81794f9d7d6d24c982c21
+      internalID: 1834527210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 763
+        width: 116
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c510fcc54c6e8b4287a3f400f77c0cf
+      internalID: -1385288935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 501
+        width: 107
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1df00e3220dbf0409126e763f26c3c6
+      internalID: -1562489786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 501
+        width: 98
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef60fa7034723924996072efc8820d10
+      internalID: 1214015380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 500
+        width: 93
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62ea176cf1973245bfdeef666231473
+      internalID: -1668449011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 500
+        width: 87
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0346c3a2736f564cae8d652db7c56b3
+      internalID: 240635599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 500
+        width: 80
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296e6557d44305a4bae35a81c3e48fa7
+      internalID: -454601044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 501
+        width: 76
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bf9f943546b474a98b95c1a712ee3e
+      internalID: 1835696434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 501
+        width: 73
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1044b3cc5283ba241aeba6f47c38ef94
+      internalID: 948368722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 500
+        width: 74
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ee5b2f0c5b7404a9d32fbf591b6f09
+      internalID: 1491191825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 501
+        width: 79
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a966814526fc41b4783ac802884b19db
+      internalID: 1362688003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 503
+        width: 85
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20e4c34df91d2a43a98cd62d7dd9462
+      internalID: 1788413606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 505
+        width: 90
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d356df3f024b741ac0523f7e4533bb
+      internalID: -1566767085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 509
+        width: 95
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2414517cbdfae3c439f036310e69962a
+      internalID: -72457498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 511
+        width: 102
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84862007c75b561499e5b97b368a7876
+      internalID: -1292028838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 511
+        width: 108
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4587405ccb578aa4580762ff0ea60e4f
+      internalID: 884246809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 510
+        width: 111
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9e9481e52bc54448d0c91076ebff8e
+      internalID: 2032980707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 510
+        width: 114
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c714a5b77827440912bf21315f7461
+      internalID: 1799540415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 509
+        width: 117
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d01f1e44e8adc4987206a05490180f
+      internalID: -1834792546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 509
+        width: 119
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9f9f67acca19f42a8307b8c77a1558
+      internalID: -1221050752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 507
+        width: 109
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82e63475a48a0243b01732cd043c575
+      internalID: 234376912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 506
+        width: 103
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c150a99effe61449a58e4ceecf2f439
+      internalID: -1843898783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 241
+        width: 98
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ab5a545dc72c8479220a99eb225f9d
+      internalID: -1679814900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 240
+        width: 91
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3876c9d077cb1429b2d3c2353d9484
+      internalID: 1432499811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimCourse_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 239
+        width: 85
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d949befc1d2b09544be1742474ace8cb
+      internalID: 349861451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Perso_AnimCourse_SpriteSheet_15: -304281782
+      Perso_AnimCourse_SpriteSheet_20: -1668449011
+      Perso_AnimCourse_SpriteSheet_37: -1843898783
+      Perso_AnimCourse_SpriteSheet_19: 1214015380
+      Perso_AnimCourse_SpriteSheet_38: -1679814900
+      Perso_AnimCourse_SpriteSheet_14: 1383084537
+      Perso_AnimCourse_SpriteSheet_10: -564020964
+      Perso_AnimCourse_SpriteSheet_13: -1919930178
+      Perso_AnimCourse_SpriteSheet_24: 948368722
+      Perso_AnimCourse_SpriteSheet_17: -1385288935
+      Perso_AnimCourse_SpriteSheet_18: -1562489786
+      Perso_AnimCourse_SpriteSheet_0: -1291209159
+      Perso_AnimCourse_SpriteSheet_1: 414515115
+      Perso_AnimCourse_SpriteSheet_11: 289525613
+      Perso_AnimCourse_SpriteSheet_35: -1221050752
+      Perso_AnimCourse_SpriteSheet_6: 253734173
+      Perso_AnimCourse_SpriteSheet_7: 301795007
+      Perso_AnimCourse_SpriteSheet_32: 2032980707
+      Perso_AnimCourse_SpriteSheet_8: 1513097935
+      Perso_AnimCourse_SpriteSheet_23: 1835696434
+      Perso_AnimCourse_SpriteSheet_25: 1491191825
+      Perso_AnimCourse_SpriteSheet_31: 884246809
+      Perso_AnimCourse_SpriteSheet_29: -72457498
+      Perso_AnimCourse_SpriteSheet_16: 1834527210
+      Perso_AnimCourse_SpriteSheet_26: 1362688003
+      Perso_AnimCourse_SpriteSheet_40: 349861451
+      Perso_AnimCourse_SpriteSheet_33: 1799540415
+      Perso_AnimCourse_SpriteSheet_39: 1432499811
+      Perso_AnimCourse_SpriteSheet_9: -953253187
+      Perso_AnimCourse_SpriteSheet_12: 657255019
+      Perso_AnimCourse_SpriteSheet_3: -1853366291
+      Perso_AnimCourse_SpriteSheet_22: -454601044
+      Perso_AnimCourse_SpriteSheet_36: 234376912
+      Perso_AnimCourse_SpriteSheet_34: -1834792546
+      Perso_AnimCourse_SpriteSheet_30: -1292028838
+      Perso_AnimCourse_SpriteSheet_2: 389727205
+      Perso_AnimCourse_SpriteSheet_21: 240635599
+      Perso_AnimCourse_SpriteSheet_28: -1566767085
+      Perso_AnimCourse_SpriteSheet_27: 1788413606
+      Perso_AnimCourse_SpriteSheet_5: -702362206
+      Perso_AnimCourse_SpriteSheet_4: 368295879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

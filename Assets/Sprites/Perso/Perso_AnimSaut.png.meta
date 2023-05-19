@@ -1,0 +1,774 @@
+fileFormatVersion: 2
+guid: ead048da17d98b14790ef1b3838dd1be
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Perso_AnimSaut_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 765
+        width: 76
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f4adf3ad75c6e48afe4bdb038f0838
+      internalID: 1863847272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 765
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa369e7b09afc5d4bb10c4e2161580fd
+      internalID: 467388701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 766
+        width: 75
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67840b21625a61644b7df8b24d74f24c
+      internalID: 129253384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 766
+        width: 75
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d45e0c2e14d1754cb0a00ee7790cce0
+      internalID: 5657246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 766
+        width: 75
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebe023210b536145a742dde2a194b54
+      internalID: 2051680020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 765
+        width: 73
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb3785832e9a6d4e9916f8b5a31f4db
+      internalID: -672343072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_6
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 763
+        width: 71
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6750c6236ab024f97ff917514a7fdc
+      internalID: -1711039916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_7
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 761
+        width: 70
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e49c5c6ec988c4989af12ac5d67bcf
+      internalID: -2146614460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_8
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 759
+        width: 71
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed136663a82dfcb4f89fdd9c6937c482
+      internalID: 2048306849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_9
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 758
+        width: 75
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e6d00b863b6024e864bca3c92bb763
+      internalID: -1648197156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_10
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 756
+        width: 78
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606db140c015e7949b766802c9532231
+      internalID: 1309012635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_11
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 755
+        width: 81
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891b996942278fb47b99e27bcdc0b123
+      internalID: 1192661955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 485
+        width: 83
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881bb8e7039946f4b959403d968fd1ee
+      internalID: 544179950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 485
+        width: 94
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af57055ab6b7f5b409da0e4752847a25
+      internalID: 465407668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 484
+        width: 99
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4397176f6b27004ab97fe04e4443f55
+      internalID: 1580875399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 484
+        width: 99
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada57e6c94fe2b346918a3df7cfd86d2
+      internalID: 1542263474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 484
+        width: 91
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc5b1734c87eab4aaef04f78b4b3dd1
+      internalID: -731869981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_17
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 484
+        width: 88
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31474872b138b354a9bd0c0eb7701d3b
+      internalID: -1804848683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 485
+        width: 85
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120acc361e7cfd942b6e823e7cef859d
+      internalID: 1395499473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_19
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 487
+        width: 83
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7d199f05327cc4489ddd3d44e00fd6
+      internalID: -2077926440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_20
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 488
+        width: 79
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846040620b21e0044b05bcaac63b5674
+      internalID: -239246736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_21
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 488
+        width: 79
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25bbf70a523fb64e8c49f3a5808bcff
+      internalID: -1422002058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_22
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 488
+        width: 79
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002d735e1d6eaa247972d1b54a51ecb0
+      internalID: 1210164390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 217
+        width: 79
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf098277186f42a42bad2758c82fb5c1
+      internalID: 273881224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 217
+        width: 79
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717c8bb24f9b2c14593ef66ca76398bb
+      internalID: -637998476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 217
+        width: 79
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862e44edb0f32394ba4abccd3d84cdc9
+      internalID: -1529790449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_26
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 217
+        width: 79
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f4f0447ff498b45895cfe5573f208a
+      internalID: -2055323515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 217
+        width: 79
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09c5f85d82317d42879d8a8be7dd986
+      internalID: 1804817295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_AnimSaut_28
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 217
+        width: 79
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e195f50523484648b09c67233095e8e
+      internalID: 482921934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Perso_AnimSaut_1: 467388701
+      Perso_AnimSaut_7: -2146614460
+      Perso_AnimSaut_18: 1395499473
+      Perso_AnimSaut_11: 1192661955
+      Perso_AnimSaut_24: -637998476
+      Perso_AnimSaut_8: 2048306849
+      Perso_AnimSaut_3: 5657246
+      Perso_AnimSaut_23: 273881224
+      Perso_AnimSaut_0: 1863847272
+      Perso_AnimSaut_9: -1648197156
+      Perso_AnimSaut_26: -2055323515
+      Perso_AnimSaut_13: 465407668
+      Perso_AnimSaut_2: 129253384
+      Perso_AnimSaut_15: 1542263474
+      Perso_AnimSaut_19: -2077926440
+      Perso_AnimSaut_14: 1580875399
+      Perso_AnimSaut_5: -672343072
+      Perso_AnimSaut_10: 1309012635
+      Perso_AnimSaut_16: -731869981
+      Perso_AnimSaut_6: -1711039916
+      Perso_AnimSaut_21: -1422002058
+      Perso_AnimSaut_27: 1804817295
+      Perso_AnimSaut_12: 544179950
+      Perso_AnimSaut_20: -239246736
+      Perso_AnimSaut_28: 482921934
+      Perso_AnimSaut_22: 1210164390
+      Perso_AnimSaut_4: 2051680020
+      Perso_AnimSaut_17: -1804848683
+      Perso_AnimSaut_25: -1529790449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
