@@ -6,9 +6,5 @@ Ce LISEZ-MOI explique comment faire fonctionner le projet.
 
 ### Version de Unity ###
 * Ce projet a été conçu pour la version 2022.2.1 de Unity.
-
-### Consignes aux contributeurs ###
-* Veuillez développer les nouvelles fonctionnalités sur vos branches personnelles avant de les fusionner à la branche principale (*main*)
-
-### Contact ###
-* https://tim-cstj.ca/
+* Programmation fait par Zachary Chandonnet et Albert Jannard
+* Visuel fait part Vincent
