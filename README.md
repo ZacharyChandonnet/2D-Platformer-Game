@@ -9,5 +9,5 @@ Ce LISEZ-MOI explique comment faire fonctionner le projet.
 * Programmation fait par Zachary Chandonnet et Albert Jannard
 * Visuel fait part Vincent
 
-# DEMON
+# DEMO
 https://jtremblay.tim-cstj.ca/jeu4/2023/promo/j4/
